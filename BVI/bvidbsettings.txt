@@ -1,0 +1,21 @@
+
+;Progress database credentials
+prog_host=C-PC
+prog_pf=c:\mtas\companies\bvi\pf\openlink.pf
+prog_user=MTAS
+prog_password=xrjTE6M249PxrTEmMALbuA==
+
+
+;Progress database credentials DB2
+prog_host2=C-PC
+prog_pf2=c:\mtas\companies\BVI\pf\openlink.pf
+prog_user2=MTAS
+prog_password2=xrjTE6M249PxrTEmMALbuA==
+
+;MS SQL Server credentials
+sqls_host=C-PC
+sqls_port=1433
+sqls_database=Ultrasys3_report
+sqls_integrated_security=true
+sqls_user=C
+sqls_password=R4wLf+8AfqqIzb+2AolJgQ==
